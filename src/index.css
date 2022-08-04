@@ -7,7 +7,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.news-feed {
+  background-color: coral;
+}
+
+.currency-converter {
+  background-color: lightblue;
+}
+
+.exchange-rate {
+  background-color: lightgray;
+}
+
+.app {
+  display: flex;
+  align-items: center;
 }
